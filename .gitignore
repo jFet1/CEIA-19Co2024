@@ -1,0 +1,34 @@
+# Ignorar la carpeta del repositorio de los docentes
+2 Bimestre/AdD/CEIA_Analisis_de_datos/
+
+# VS Code settings y entorno
+.vscode/
+*.code-workspace
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+env/
+venv/
+.venv/
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Archivos ocultos de JupyterLab
+.jupyterlab-workspace*
+
+# Salida de notebooks exportados
+*.html
+*.pdf
+
+# Datos temporales
+*.log
+*.tmp
