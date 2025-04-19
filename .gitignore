@@ -29,8 +29,12 @@ venv/
 
 # Salida de notebooks exportados
 *.html
-*.pdf
+####*.pdf
 
 # Datos temporales
 *.log
 *.tmp
+
+# Archivos comprimidos
+*.zip
+*.tar
