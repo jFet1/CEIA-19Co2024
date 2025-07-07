@@ -7,6 +7,7 @@
 3_Bimestre/AP/dataset_compras.csv
 3_Bimestre/VpC/vision_computadora_I
 3_Bimestre/VpC/white_patch_resultados
+3_Bimestre/MLOPS/aprendizaje_maquina_II
 4_Bimestre/PLN/procesamiento_lenguaje_natural
 4_Bimestre/VpC2/vision_computadora_II
 
@@ -45,6 +46,3 @@ venv/
 # Archivos comprimidos
 *.zip
 *.tar
-
-
-*.ipynb
