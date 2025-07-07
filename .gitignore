@@ -1,11 +1,14 @@
 # Ignorar la carpeta del repositorio de los docentes
-2 Bimestre/AdD/CEIA_Analisis_de_datos/
-2 Bimestre/AMq/aprMaqI_CEIA
-2 Bimestre/GdP/PlanificacionCEIA
-2 Bimestre/AMq/Aprendizaje_de_maquina_1
-3 Bimestre/AP/aprendizaje_profundo
-3 Bimestre/VpC/vision_computadora_I
-3 Bimestre/VpC/white_patch_resultados
+2_Bimestre/AdD/CEIA_Analisis_de_datos/
+2_Bimestre/AMq/aprMaqI_CEIA
+2_Bimestre/GdP/PlanificacionCEIA
+2_Bimestre/AMq/Aprendizaje_de_maquina_1
+3_Bimestre/AP/aprendizaje_profundo
+3_Bimestre/AP/dataset_compras.csv
+3_Bimestre/VpC/vision_computadora_I
+3_Bimestre/VpC/white_patch_resultados
+4_Bimestre/PLN/procesamiento_lenguaje_natural
+4_Bimestre/VpC2/vision_computadora_II
 
 # VS Code settings y entorno
 .vscode/
@@ -42,3 +45,6 @@ venv/
 # Archivos comprimidos
 *.zip
 *.tar
+
+
+*.ipynb
