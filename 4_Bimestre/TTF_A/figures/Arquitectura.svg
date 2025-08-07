@@ -1,0 +1,41 @@
+<svg width="400" height="740" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .box { fill: #e0e0e0; stroke: #000; stroke-width: 1; }
+    .text { font-family: sans-serif; font-size: 14px; text-anchor: middle; dominant-baseline: middle; }
+    .arrow { stroke: black; stroke-width: 2; marker-end: url(#arrowhead); }
+  </style>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5"
+            orient="auto" markerUnits="strokeWidth">
+      <polygon points="0 0, 10 3.5, 0 7" fill="black"/>
+    </marker>
+  </defs>
+
+  <!-- Texto sin caja -->
+  <text x="200" y="30" class="text">Texto de entrada</text>
+
+  <!-- Flecha hacia preprocesamiento -->
+  <line x1="200" y1="40" x2="200" y2="75" class="arrow"/>
+
+  <!-- Bloques -->
+  <rect x="100" y="75" width="200" height="50" class="box"/>
+  <text x="200" y="100" class="text">Preprocesamiento de texto</text>
+
+  <line x1="200" y1="125" x2="200" y2="160" class="arrow"/>
+  <rect x="100" y="160" width="200" height="50" class="box"/>
+  <text x="200" y="185" class="text">Modelo SpeechT5</text>
+  <text x="200" y="200" class="text">(ajuste fino)</text>
+
+  <line x1="200" y1="210" x2="200" y2="245" class="arrow"/>
+  <rect x="100" y="245" width="200" height="50" class="box"/>
+  <text x="200" y="270" class="text">Generación de espectrograma</text>
+
+  <line x1="200" y1="295" x2="200" y2="330" class="arrow"/>
+  <rect x="100" y="330" width="200" height="50" class="box"/>
+  <text x="200" y="355" class="text">Vocoder HiFi-GAN</text>
+
+  <line x1="200" y1="380" x2="200" y2="415" class="arrow"/>
+
+  <!-- Texto sin caja -->
+  <text x="200" y="440" class="text">Audio de salida (.wav)</text>
+</svg>
