@@ -1,13 +1,14 @@
-# Especialización en Inteligencia Artificial · CEIA (FIUBA)
+<img src="https://github.com/hernancontigiani/ceia_memorias_especializacion/raw/master/Figures/logoFIUBA.jpg" width="500" align="center">
 
-# Trabajo Práctico Integrador — Procesamiento de Lenguaje Natural
+# Especialización en Inteligencia Artificial · CEIA · FIUBA
+
+# Desafíos de Procesamiento de Lenguaje Natural
 
 ---
 
 ## Alumno
 
-* Ojeda Juan Cruz
-* Cohorte 19
+* Ojeda, Juan Cruz · CEIA 19co2024
 
 ---
 
@@ -80,7 +81,3 @@ Archivos complementarios:
 3. Abrir cada notebook en su carpeta correspondiente utilizando Jupyter Notebook, Jupyter Lab o cualquier editor compatible (por ejemplo VSCode con la extensión de Jupyter).
 
 ---
-
-## Autor
-
-* **Ojeda Juan Cruz** · CEIA 19co2024
