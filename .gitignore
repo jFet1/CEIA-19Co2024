@@ -50,3 +50,6 @@ venv/
 # Archivos comprimidos
 *.zip
 *.tar
+
+*.pkl
+
