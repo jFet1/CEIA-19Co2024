@@ -14,6 +14,9 @@
 4_Bimestre/VpC2/Data
 4_Bimestre/PLN/Desafio_2/songs_dataset
 4_Bimestre/VpC2/tpfinal
+5_Bimestre/TTFB/TTS/tts
+5_Bimestre/TTFB/spkrec-xvect-voxceleb
+5_Bimestre/TTFB/TTS/speecht5_finetuned_tts_rioplatense
 
 # VS Code settings y entorno
 .vscode/
@@ -52,4 +55,7 @@ venv/
 *.tar
 
 *.pkl
+
+*.wav
+*.mp3
 
